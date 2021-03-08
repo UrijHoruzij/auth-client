@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ebd589f.chunk.css",
-    "main.js": "/static/js/main.0e3707e0.chunk.js",
-    "main.js.map": "/static/js/main.0e3707e0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fa736176.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fa736176.js.map",
-    "static/css/2.5c384b90.chunk.css": "/static/css/2.5c384b90.chunk.css",
-    "static/js/2.618dc0c3.chunk.js": "/static/js/2.618dc0c3.chunk.js",
-    "static/js/2.618dc0c3.chunk.js.map": "/static/js/2.618dc0c3.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.5c384b90.chunk.css.map": "/static/css/2.5c384b90.chunk.css.map",
-    "static/css/main.2ebd589f.chunk.css.map": "/static/css/main.2ebd589f.chunk.css.map",
-    "static/js/2.618dc0c3.chunk.js.LICENSE.txt": "/static/js/2.618dc0c3.chunk.js.LICENSE.txt",
-    "static/media/main.css": "/static/media/Montserrat-Regular.88226982.woff2",
-    "static/media/bg.067aa340.jpg": "/static/media/bg.067aa340.jpg"
+    "main.css": "/auth-client/static/css/main.2ebd589f.chunk.css",
+    "main.js": "/auth-client/static/js/main.80436af9.chunk.js",
+    "main.js.map": "/auth-client/static/js/main.80436af9.chunk.js.map",
+    "runtime-main.js": "/auth-client/static/js/runtime-main.7ab1ada6.js",
+    "runtime-main.js.map": "/auth-client/static/js/runtime-main.7ab1ada6.js.map",
+    "static/css/2.0ef8660c.chunk.css": "/auth-client/static/css/2.0ef8660c.chunk.css",
+    "static/js/2.82c8a23d.chunk.js": "/auth-client/static/js/2.82c8a23d.chunk.js",
+    "static/js/2.82c8a23d.chunk.js.map": "/auth-client/static/js/2.82c8a23d.chunk.js.map",
+    "index.html": "/auth-client/index.html",
+    "static/css/2.0ef8660c.chunk.css.map": "/auth-client/static/css/2.0ef8660c.chunk.css.map",
+    "static/css/main.2ebd589f.chunk.css.map": "/auth-client/static/css/main.2ebd589f.chunk.css.map",
+    "static/js/2.82c8a23d.chunk.js.LICENSE.txt": "/auth-client/static/js/2.82c8a23d.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/auth-client/static/media/Montserrat-Regular.88226982.woff2",
+    "static/media/bg.067aa340.jpg": "/auth-client/static/media/bg.067aa340.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa736176.js",
-    "static/css/2.5c384b90.chunk.css",
-    "static/js/2.618dc0c3.chunk.js",
+    "static/js/runtime-main.7ab1ada6.js",
+    "static/css/2.0ef8660c.chunk.css",
+    "static/js/2.82c8a23d.chunk.js",
     "static/css/main.2ebd589f.chunk.css",
-    "static/js/main.0e3707e0.chunk.js"
+    "static/js/main.80436af9.chunk.js"
   ]
 }
