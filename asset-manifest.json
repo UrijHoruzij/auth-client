@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/auth-client/static/css/main.2ebd589f.chunk.css",
-    "main.js": "/auth-client/static/js/main.80436af9.chunk.js",
-    "main.js.map": "/auth-client/static/js/main.80436af9.chunk.js.map",
+    "main.js": "/auth-client/static/js/main.f43d842c.chunk.js",
+    "main.js.map": "/auth-client/static/js/main.f43d842c.chunk.js.map",
     "runtime-main.js": "/auth-client/static/js/runtime-main.7ab1ada6.js",
     "runtime-main.js.map": "/auth-client/static/js/runtime-main.7ab1ada6.js.map",
     "static/css/2.0ef8660c.chunk.css": "/auth-client/static/css/2.0ef8660c.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.0ef8660c.chunk.css",
     "static/js/2.82c8a23d.chunk.js",
     "static/css/main.2ebd589f.chunk.css",
-    "static/js/main.80436af9.chunk.js"
+    "static/js/main.f43d842c.chunk.js"
   ]
 }
